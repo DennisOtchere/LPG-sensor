@@ -64,9 +64,9 @@ The LPG Sensor is a cutting-edge IoT solution for gas leak detection, prioritizi
 3. 🧑‍💻 Dennis Otchere
 
 ## 📸 **Project Prototype**
-![Project Prototype](images/prototype.jpg)
+![Project Prototype](images/label.jpg)
 
 ## 📊 **WaziCloud Dashboard**
 Below is an image of the WaziCloud dashboard, depicting real-time data reception from the gas sensor.
 
-![WaziCloud Dashboard](images/label.jpg)
+![WaziCloud Dashboard](images/prototype.jpg)
